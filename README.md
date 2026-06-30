@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0001-two-sum](https://github.com/Shubhx449/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
@@ -38,6 +39,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
