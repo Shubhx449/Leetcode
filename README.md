@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhx449/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shubhx449/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -24,6 +25,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhx449/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
