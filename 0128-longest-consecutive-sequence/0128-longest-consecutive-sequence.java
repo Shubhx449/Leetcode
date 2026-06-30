@@ -10,12 +10,11 @@ class Solution {
         }
 
         int max = 1;
-        for(int i=0; i<n; i++){
-            if(set.contains(nums[i]-1)) continue;
-            int count = 0, next = nums[i];
-            while(set.contains(next)){
+        for(int num : set){
+            if(set.contains(num-1)) continue; 
+            int count = 0, next = num;
+            while(set.contains(next++)){
                 count++;
-                set.remove(next++);
             }
             if(max < count) max = count;
         }
