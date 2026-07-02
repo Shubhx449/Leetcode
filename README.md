@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubhx449/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0054-spiral-matrix](https://github.com/Shubhx449/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +66,20 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
