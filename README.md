@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0128-longest-consecutive-sequence](https://github.com/Shubhx449/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -74,12 +75,27 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
