@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubhx449/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0054-spiral-matrix](https://github.com/Shubhx449/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhx449/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -96,6 +98,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Shubhx449/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
