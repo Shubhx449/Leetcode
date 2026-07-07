@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhx449/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
 | ------- |
