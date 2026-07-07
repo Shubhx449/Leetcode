@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhx449/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,4 +113,8 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubhx449/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
