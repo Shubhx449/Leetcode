@@ -10,7 +10,7 @@ class Solution {
     private void union(int a,int b){
         a = find(a); b = find(b);
         
-        if(size[a] > size[b]){
+        if(size[a] < size[b]){
             parent[b] = a;
             size[a] += size[b];
         }else{
