@@ -1,7 +1,6 @@
 class Solution {
     private int GCD(int low, int high){
-        if(low == 0) return high;
-        return GCD(high%low,low);
+        return low == 0 ? high : GCD(high % low,low);
     }
 
     public int gcdOfOddEvenSums(int n) {
