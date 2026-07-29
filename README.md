@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhx449/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhx449/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhx449/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhx449/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -57,6 +58,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhx449/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Simulation
 |  |
@@ -73,6 +75,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -176,4 +179,9 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
