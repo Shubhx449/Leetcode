@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhx449/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubhx449/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -160,6 +162,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhx449/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
