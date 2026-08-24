@@ -226,6 +226,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhx449/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0707-design-linked-list](https://github.com/Shubhx449/Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -238,4 +239,8 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Shubhx449/Leetcode/tree/master/1872-stone-game-viii) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Shubhx449/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
