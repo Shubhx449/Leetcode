@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhx449/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubhx449/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shubhx449/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhx449/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhx449/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -198,6 +200,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [1927-sum-game](https://github.com/Shubhx449/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhx449/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shubhx449/Leetcode/tree/master/1291-sequential-digits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +223,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
