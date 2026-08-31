@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhx449/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shubhx449/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Shubhx449/Leetcode/tree/master/1872-stone-game-viii) |
@@ -268,6 +270,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -277,4 +280,8 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
