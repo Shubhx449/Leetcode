@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Shubhx449/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Shubhx449/Leetcode/tree/master/1872-stone-game-viii) |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0049-group-anagrams](https://github.com/Shubhx449/Leetcode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Shubhx449/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Shubhx449/Leetcode/tree/master/1927-sum-game) |
@@ -295,6 +297,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
