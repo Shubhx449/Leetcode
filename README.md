@@ -118,6 +118,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhx449/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Shubhx449/Leetcode/tree/master/1927-sum-game) |
@@ -289,6 +290,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shubhx449/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhx449/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
@@ -309,6 +311,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
