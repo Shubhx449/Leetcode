@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Shubhx449/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2326-spiral-matrix-iv](https://github.com/Shubhx449/Leetcode/tree/master/2326-spiral-matrix-iv) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhx449/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhx449/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhx449/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubhx449/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shubhx449/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhx449/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
