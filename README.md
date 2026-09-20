@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhx449/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Shubhx449/Leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Shubhx449/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Shubhx449/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
@@ -308,6 +309,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Shubhx449/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
