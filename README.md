@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhx449/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhx449/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Shubhx449/Leetcode/tree/master/1927-sum-game) |
@@ -314,6 +315,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhx449/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
