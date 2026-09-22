@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0054-spiral-matrix](https://github.com/Shubhx449/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shubhx449/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shubhx449/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Shubhx449/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
@@ -73,6 +74,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0048-rotate-image](https://github.com/Shubhx449/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shubhx449/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhx449/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Shubhx449/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Shubhx449/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +217,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Shubhx449/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Shubhx449/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhx449/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shubhx449/Leetcode/tree/master/1406-stone-game-iii) |
@@ -317,6 +320,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shubhx449/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shubhx449/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
@@ -326,6 +330,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shubhx449/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
