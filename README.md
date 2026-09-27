@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0290-word-pattern](https://github.com/Shubhx449/Leetcode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhx449/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhx449/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhx449/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -329,6 +330,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0394-decode-string](https://github.com/Shubhx449/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Shubhx449/Leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhx449/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -343,6 +345,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
