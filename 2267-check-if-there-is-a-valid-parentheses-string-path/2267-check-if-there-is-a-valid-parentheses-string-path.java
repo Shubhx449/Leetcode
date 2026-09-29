@@ -9,7 +9,9 @@ class Solution {
             return false;
         }
 
-        
+        if ((rows + cols - 1) % 2 != 0) {
+            return false;
+        }
 
         memo = new Boolean[101][101][201];
 
