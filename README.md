@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubhx449/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shubhx449/Leetcode/tree/master/0071-simplify-path) |
@@ -326,6 +327,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shubhx449/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shubhx449/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -351,6 +353,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhx449/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
