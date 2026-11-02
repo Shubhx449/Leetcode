@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0128-longest-consecutive-sequence](https://github.com/Shubhx449/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Shubhx449/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhx449/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Shubhx449/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shubhx449/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0202-happy-number](https://github.com/Shubhx449/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Shubhx449/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Shubhx449/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhx449/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubhx449/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shubhx449/Leetcode/tree/master/1406-stone-game-iii) |
@@ -163,6 +165,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shubhx449/Leetcode/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shubhx449/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhx449/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Shubhx449/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhx449/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
