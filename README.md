@@ -127,6 +127,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [0289-game-of-life](https://github.com/Shubhx449/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Shubhx449/Leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Shubhx449/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Shubhx449/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhx449/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +152,7 @@ This repository contains my solutions to LeetCode coding problems, primarily in 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubhx449/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Shubhx449/Leetcode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shubhx449/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhx449/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhx449/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhx449/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
